@@ -1,0 +1,3 @@
+# AndroidLogo
+
+提供一个包含android 启动图的文件夹，这个项目会帮你处理成android需要的logo各分辨率文件夹
